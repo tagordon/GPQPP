@@ -1,1 +1,1 @@
-experimenting with non-stationary gaussian processes in celerite2
+experimenting with non-stationary gaussian processes for complex flares
